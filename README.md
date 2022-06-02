@@ -1,4 +1,4 @@
-# MetaAnalysisExperiment
+# Domain Adaptation Meta Analysis
 This repository contains code to replicate the adaptation experiments described in our TACL 2022 paper: [Adapting to the Long Tail: A Meta-Analysis of Transfer Learning Research for Language Understanding Tasks](https://arxiv.org/abs/2111.01340)
 
 This repository contains implementations of the following adaptation methods:
